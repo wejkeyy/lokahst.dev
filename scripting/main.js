@@ -1,5 +1,5 @@
 const DOWNLOAD_LINKS = {
-  lotn: 'https://github.com/lokahst/lotn/releases',
+  lotn: 'https://modrinth.com/plugin/lotn/versions',
   valentines: 'https://modrinth.com/plugin/valentines/versions',
 };
 
